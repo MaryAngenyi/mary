@@ -37,6 +37,7 @@ h2 {
 .about {
   width: 75%;
   justify-content: center;
+  font-style: oblique;
 }
 .about p {
   text-align: center;
