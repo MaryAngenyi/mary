@@ -15,7 +15,7 @@ a {
 }
 ul li a:hover {
   color: orange;
-  background-color: purple;
+  background-color: green;
 }
 img {
   border-radius: 50%;
