@@ -41,6 +41,11 @@ h2 {
   width: 75%;
   margin: 0 auto;
 }
+
+.project-one {
+  display: block;
+  margin: 0 auto;
+}
 .about p {
   text-align: center;
 }
@@ -64,10 +69,14 @@ table {
   padding: 20px;
 }
 footer {
-  font-weight: 10px;
-  margin: 0 auto;
-  border: 2px solid purple;
+  font-weight: bold;
+  font-style: italic;
+  margin: 30px auto 0;
+  border: 2px solid black;
+  background-color: purple;
+  color: lightblue;
 }
 .image {
   margin: 0 auto;
+  display: block;
 }
