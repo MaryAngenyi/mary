@@ -34,10 +34,12 @@ h2 {
   text-align: center;
   padding: 20px;
 }
-.about {
-  width: 75%;
+.about,
+#project {
   justify-content: center;
   font-style: oblique;
+  width: 75%;
+  margin: 0 auto;
 }
 .about p {
   text-align: center;
