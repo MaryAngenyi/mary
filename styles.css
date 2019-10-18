@@ -62,3 +62,8 @@ table {
   margin: 0 auto;
   width: 50%;
 }
+footer {
+  padding: 20px;
+  margin: 0 auto;
+  border: 2px solid purple;a
+}
